@@ -1,1 +1,3 @@
 # Counter-
+
+Practicing basic Javascript 
